@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="../assets/logo.png" alt="上善若水" />
+<img src="../assets/logo.png" alt="上善若水" align="middle"/>
 
 
 上善若水  
