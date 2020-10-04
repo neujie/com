@@ -2,7 +2,8 @@
 
 <br>
 
-![上善若水](../assets/logo.png "上善若水")  
+<img src="../assets/logo.png" alt="上善若水" />
+
 
 上善若水  
 水善利万物而不争，处众人之所恶，故几于道。  
@@ -13,7 +14,7 @@
 <br>
 
 |执子之手|与之偕老|深海拾贝|
-|:--|:--|:--|
+|:--:|:--:|:--:|
 |[![](../assets/zero.png)](http://neujie.cn)|[![](../assets/life.png)](http://life.cq2050.com)|[![](../assets/coding.png)](http://wiki.cq2050.com)|
 ||||
 
