@@ -1,9 +1,7 @@
-# 士心
-
+# 士心![](../assets/zhi.ico)
 <br>
 
-<img src="../assets/logo.png" alt="上善若水" align="middle"/>
-
+![](../assets/logo.png)
 
 上善若水  
 水善利万物而不争，处众人之所恶，故几于道。  
