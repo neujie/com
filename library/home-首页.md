@@ -1,4 +1,4 @@
-# 士心![](../assets/zhi.ico)
+# 士心： ![](../assets/zhi.ico)
 <br>
 
 ![](../assets/logo.png)
